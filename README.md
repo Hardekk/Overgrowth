@@ -29,9 +29,9 @@ and the ground blends softly from one block to the next, all on top of the vanil
 
 - **Vanilla at heart** : every detail is built on the vanilla textures, so it fits right in.
 - **Never the same twice** : details appear at random, in many shapes, and turn in every direction.
-- **Natural blending** : dirt, sand, gravel, snow, moss and stone spill softly onto their neighbours, with a few grains carried by the wind.
+- **Natural blending** : dirt, sand, gravel, snow, moss and stone spill softly onto the adjacent blocks.
 - **Bushy leaves** : leaves spill out of their block for fuller, softer trees.
-- **Lightweight** : simple models, no shaders needed.
+- **Lightweight** : simple models, build in mind for performance.
 
 <p align="center"><img src="images/details.png" alt="What grows"></p>
 
