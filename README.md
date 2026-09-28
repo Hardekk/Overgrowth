@@ -65,7 +65,7 @@ and the ground blends softly from one block to the next, all on top of the vanil
 
 ² Minecraft shows a harmless "made for a newer version" warning, just enable the pack anyway.
 
-**Blending** between blocks needs [Continuity]((https://www.curseforge.com/minecraft/mc-mods/continuity)) (or OptiFine). Everything else works without any mod.
+**Blending** between blocks needs [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity) (or OptiFine). Everything else works without any mod.
 
 **With other packs:** put Overgrowth above your texture pack. Base blocks use the vanilla texture names, so most texture packs still show through.
 
